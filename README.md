@@ -11,3 +11,6 @@
 ※MySQL管理員帳號
 帳號：root
 密碼：1234
+
+實際使用畫面Demo可參考 (未架站，僅錄影片):
+https://www.youtube.com/watch?v=TSU92qonlB0 
